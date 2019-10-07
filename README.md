@@ -11,7 +11,7 @@ An horror game where you evolve in procedurally generated mazes, and where your 
 The game has 7 successive levels, each one increasing the difficulty : bigger maze, higher number of monsters, limited time to finish the maze before dying...
 
 <b>More details about the project:</b>
-- Done using mostly C++ as a challenge and training
+- Done using mostly C++ as a challenge and training, with the standard defined in https://docs.unrealengine.com/en-US/Programming/Development/CodingStandard/index.html
 - Has procedurally generated mazes using a backtrack algorithm
 - Uses AI based on Behaviour Trees and custom C++ behaviours
 - Uses custom post-process effects
